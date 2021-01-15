@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610737892 source:c:\users\standard\desktop\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"bst.h"
+
+1610738013 c:\users\standard\desktop\bst\bst.h
+	<stdint.h>
+
